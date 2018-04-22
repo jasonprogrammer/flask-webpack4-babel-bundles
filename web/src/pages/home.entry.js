@@ -1,4 +1,4 @@
-import '../css/bulma/bulma.sass'
-import txt from './login.tpl.html'
+import './home.sass'
+import txt from './home.tpl.html'
 
 console.log(txt);
